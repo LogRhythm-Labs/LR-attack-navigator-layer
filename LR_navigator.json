@@ -1,0 +1,144 @@
+{
+    "version": "2.2",
+    "name": "LogRhythm MITRE ATT&CK Module v",
+    "description": "Navigator layer of MITRE module technique coverage",
+    "domain": "mitre-enterprise",
+    "techniques": [
+        {
+            "techniqueID": "T1003",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1007",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1012",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1016",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1033",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1048",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1018",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1050",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1060",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1064",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1077",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1082",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1086",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1106",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1189",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1057",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1047",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1099",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1069",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1087",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1083",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1085",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1035",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1090",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1105",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1117",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1036",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1193",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1075",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1097",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1208",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1053",
+            "score": 25
+        }
+    ],
+    "gradient": {
+        "colors": [
+            "#ffffff",
+            "#66b1ff"
+        ],
+        "minValue": 0,
+        "maxValue": 25
+    }
+}
