@@ -1,5 +1,5 @@
 {
-    "version": "2.2",
+    "version": "4.1",
     "name": "LogRhythm MITRE ATT&CK Module",
     "description": "Navigator layer of MITRE module technique coverage",
     "domain": "mitre-enterprise",
@@ -33,19 +33,19 @@
             "score": 25
         },
         {
-            "techniqueID": "T1050",
+            "techniqueID": "T1543.003",
             "score": 25
         },
         {
-            "techniqueID": "T1060",
+            "techniqueID": "T1547.001",
             "score": 25
         },
         {
-            "techniqueID": "T1064",
+            "techniqueID": "T1059",
             "score": 25
         },
         {
-            "techniqueID": "T1077",
+            "techniqueID": "T1021.002",
             "score": 25
         },
         {
@@ -53,11 +53,7 @@
             "score": 25
         },
         {
-            "techniqueID": "T1086",
-            "score": 25
-        },
-        {
-            "techniqueID": "T1106",
+            "techniqueID": "T1059.001",
             "score": 25
         },
         {
@@ -73,7 +69,7 @@
             "score": 25
         },
         {
-            "techniqueID": "T1099",
+            "techniqueID": "T1070.006",
             "score": 25
         },
         {
@@ -89,15 +85,15 @@
             "score": 25
         },
         {
-            "techniqueID": "T1085",
+            "techniqueID": "T1218.011",
             "score": 25
         },
         {
-            "techniqueID": "T1035",
+            "techniqueID": "T1569.002",
             "score": 25
         },
         {
-            "techniqueID": "T1090",
+            "techniqueID": "T1090.001",
             "score": 25
         },
         {
@@ -105,27 +101,27 @@
             "score": 25
         },
         {
-            "techniqueID": "T1117",
+            "techniqueID": "T1218.010",
             "score": 25
         },
         {
-            "techniqueID": "T1036",
+            "techniqueID": "T1036.003",
             "score": 25
         },
         {
-            "techniqueID": "T1193",
+            "techniqueID": "T1566.001",
             "score": 25
         },
         {
-            "techniqueID": "T1075",
+            "techniqueID": "T1550.002",
             "score": 25
         },
         {
-            "techniqueID": "T1097",
+            "techniqueID": "T1550.003",
             "score": 25
         },
         {
-            "techniqueID": "T1208",
+            "techniqueID": "T1558.003",
             "score": 25
         },
         {
@@ -133,7 +129,7 @@
             "score": 25
         },
         {
-            "techniqueID": "T1136",
+            "techniqueID": "T1136.003",
             "score": 25
         },
         {
@@ -141,7 +137,7 @@
             "score": 25
         },
         {
-            "techniqueID": "T1192",
+            "techniqueID": "T1566.002",
             "score": 25
         },
         {
@@ -149,11 +145,11 @@
             "score": 25
         },
         {
-            "techniqueID": "T1114",
+            "techniqueID": "T1114.003",
             "score": 25
         },
         {
-            "techniqueID": "T1192",
+            "techniqueID": "T1566.002",
             "score": 25
         }
     ],
