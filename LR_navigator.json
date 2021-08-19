@@ -151,6 +151,38 @@
         {
             "techniqueID": "T1566.002",
             "score": 25
+        },
+        {
+            "techniqueID": "T1190",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1199",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1078.001",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1078.002",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1078.003",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1078.004",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1606.002",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1484.002",
+            "score": 25
         }
     ],
     "gradient": {
