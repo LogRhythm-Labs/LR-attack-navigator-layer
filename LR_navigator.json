@@ -1,5 +1,5 @@
 {
-    "version": "4.1",
+    "version": "4.2",
     "name": "LogRhythm MITRE ATT&CK Module",
     "description": "Navigator layer of MITRE module technique coverage",
     "domain": "mitre-enterprise",
