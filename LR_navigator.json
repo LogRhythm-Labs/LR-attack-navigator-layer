@@ -1,5 +1,5 @@
 {
-    "version": "4.2",
+    "version": "4.1",
     "name": "LogRhythm MITRE ATT&CK Module",
     "description": "Navigator layer of MITRE module technique coverage",
     "domain": "mitre-enterprise",
@@ -182,6 +182,38 @@
         },
         {
             "techniqueID": "T1484.002",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1552.004",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1489",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1059.003",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1490",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1562.001",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1106",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1027",
+            "score": 25
+        },
+        {
+            "techniqueID": "T1059.001",
             "score": 25
         }
     ],
